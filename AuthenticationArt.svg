@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1686"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="AuthenticationArt.svg">
+  <defs
+     id="defs1680">
+    <marker
+       style="overflow:visible;"
+       id="marker2696"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path2694" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="marker2610"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path2608" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="marker2556"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path2554" />
+    </marker>
+    <rect
+       x="10.121731"
+       y="71.793677"
+       width="65.908949"
+       height="61.907334"
+       id="rect2548" />
+    <rect
+       x="79.090739"
+       y="90.389416"
+       width="1.6477237"
+       height="12.711012"
+       id="rect2542" />
+    <marker
+       style="overflow:visible;"
+       id="marker2488"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path2486" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="marker2446"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path2444" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="marker2390"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path2388" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="marker2277"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path2275" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path852" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0784206"
+     inkscape:cx="425.30872"
+     inkscape:cy="378.61102"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1683">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1;stroke:#4d4d4d"
+       id="rect2249"
+       width="61.436554"
+       height="18.36035"
+       x="37.426865"
+       y="18.831127" />
+    <use
+       id="use2251"
+       inkscape:spray-origin="#rect2249"
+       xlink:href="#rect2249"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(0.31033092,39.233292)" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="M 8.7093966,26.12819 36.7207,25.422023"
+       id="path2253"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;line-height:0;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.264583"
+       x="43.546986"
+       y="29.659025"
+       id="text2271"><tspan
+         sodipodi:role="line"
+         id="tspan2269"
+         x="43.546986"
+         y="29.659025"
+         style="font-size:4.93889px;stroke-width:0.264583">Authentication Filter</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker2277)"
+       d="M 47.07782,36.485311 V 57.905718"
+       id="path2273"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;line-height:0;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.264583"
+       x="44.95932"
+       y="69.439781"
+       id="text2313"><tspan
+         sodipodi:role="line"
+         id="tspan2311"
+         x="44.95932"
+         y="69.439781"
+         style="font-size:4.93889px;stroke-width:0.264583">Authentication Manager</tspan></text>
+    <a
+       id="a2377"
+       transform="translate(7.7678404,-4.7077821)">
+      <use
+         id="use2315"
+         inkscape:spray-origin="#rect2249"
+         xlink:href="#use2251"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         transform="translate(-10.174635,36.57677)" />
+    </a>
+    <use
+       id="use2373"
+       inkscape:spray-origin="#rect2249"
+       xlink:href="#use2251"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(0.46231286,37.151986)" />
+    <use
+       id="use2375"
+       inkscape:spray-origin="#rect2249"
+       xlink:href="#use2251"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(3.2009322,41.463986)" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;line-height:0;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.264583"
+       x="48.254765"
+       y="107.80821"
+       id="text2382"><tspan
+         sodipodi:role="line"
+         id="tspan2380"
+         x="48.254765"
+         y="107.80821"
+         style="font-size:4.93889px;stroke-width:0.264583">Authentication Provider</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker2390)"
+       d="M 46.136263,76.030679 V 89.683248"
+       id="path2386"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;line-height:0;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.264583"
+       x="3.0600588"
+       y="16.477236"
+       id="text2424"><tspan
+         sodipodi:role="line"
+         id="tspan2422"
+         x="3.0600588"
+         y="16.477236"
+         style="font-size:4.93889px;stroke-width:0.264583">Username:password</tspan></text>
+    <use
+       id="use2438"
+       inkscape:spray-origin="#rect2249"
+       xlink:href="#use2251"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(81.604149,62.687027)" />
+    <use
+       id="use2440"
+       inkscape:spray-origin="#rect2249"
+       xlink:href="#use2251"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(82.393408,19.31874)" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2446)"
+       d="M 102.37468,99.528404 119.34227,88.741691"
+       id="path2442"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2488)"
+       d="m 102.37468,117.88875 16.96759,10.39831"
+       id="path2484"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.93888889px;line-height:0;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.264583;"
+       x="134.40718"
+       y="86.858582"
+       id="text2534"><tspan
+         sodipodi:role="line"
+         id="tspan2532"
+         x="134.40718"
+         y="86.858582"
+         style="stroke-width:0.264583;font-size:4.93888889px;">PasswordEncoder</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.93888889px;line-height:0;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.264583;"
+       x="135.58412"
+       y="129.22862"
+       id="text2538"><tspan
+         sodipodi:role="line"
+         id="tspan2536"
+         x="135.58412"
+         y="129.22862"
+         style="stroke-width:0.264583;font-size:4.93888889px;">UserDetailsService</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text2540"
+       style="line-height:0;font-family:'Times New Roman';font-size:10.58333333px;-inkscape-font-specification:'Times New Roman, ';white-space:pre;shape-inside:url(#rect2542);" />
+    <text
+       xml:space="preserve"
+       id="text2546"
+       style="line-height:0;font-family:'Times New Roman';font-size:10.58333333px;-inkscape-font-specification:'Times New Roman, ';white-space:pre;shape-inside:url(#rect2548);" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker2556)"
+       d="M 78.149182,88.270912 78.384571,76.266068"
+       id="path2552"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker2610)"
+       d="M 79.326128,58.141107 79.090739,36.485311"
+       id="path2606"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <use
+       id="use2690"
+       inkscape:spray-origin="#rect2249"
+       xlink:href="#use2251"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(82.3549,-40.905612)" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2696)"
+       d="M 98.157256,28.011302 120.04844,27.069745"
+       id="path2692"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.93888889px;line-height:0;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.264583;"
+       x="134.87796"
+       y="25.186634"
+       id="text2760"><tspan
+         sodipodi:role="line"
+         id="tspan2758"
+         x="134.87796"
+         y="25.186634"
+         style="stroke-width:0.264583;font-size:4.93888889px;">Security Context</tspan></text>
+  </g>
+</svg>
